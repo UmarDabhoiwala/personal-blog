@@ -1,1 +1,3 @@
 pelican[markdown]
+pelican-search
+pelican-image-process

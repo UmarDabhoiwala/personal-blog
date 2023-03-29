@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
-from pelican.plugins import search, similar_posts 
+from pelican.plugins import search, image_process
 
-PLUGINS = [search, similar_posts]
+PLUGINS = [search, image_process]
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = ''
