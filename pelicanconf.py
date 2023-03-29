@@ -1,6 +1,11 @@
 AUTHOR = 'Umar Dabhoiwala'
 SITENAME = "Umar's Blog"
 SITEURL = ''
+SITETITLE = 'My Blog'
+SITESUBTITLE = 'My thoughts on random stuff'
+SITEDESCRIPTION = 'Random stuff I thought about and wanted to share'
+
+
 
 PATH = 'content'
 
@@ -24,7 +29,7 @@ THEME = "/home/umar.dabhoiwala/Documents/pelican-themes/Flex"
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('LinkedIN', 'https://au.linkedin.com/in/umar-dabhoiwala-092b82241'),
+SOCIAL = (('LinkedIN', ''),
           ('Another social link', '#'),)
 
 
