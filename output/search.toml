@@ -1,0 +1,8 @@
+[input]
+base_directory = "/home/umar.dabhoiwala/Programming/personal_blog/output"
+html_selector = "main"
+
+[[input.files]]
+path = "tea-drunk.html"
+url = "/tea-drunk.html"
+title = "Tea Drunk: A Journey Through Intoxication"
