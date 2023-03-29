@@ -15,15 +15,29 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+THEME = "/home/umar.dabhoiwala/Documents/pelican-themes/Flex"
+
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+# LINKS = (('Pelican', 'https://getpelican.com/'),
+#          ('Python.org', 'https://www.python.org/'),
+#          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('LinkedIN', 'https://au.linkedin.com/in/umar-dabhoiwala-092b82241'),
           ('Another social link', '#'),)
+
+
+USE_FOLDER_AS_CATEGORY = False
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
+
+MENUITEMS = (
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
+)
+
 
 DEFAULT_PAGINATION = 10
 

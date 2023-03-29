@@ -5,7 +5,6 @@ Category: Tea
 Tags: tea drunk, intoxication, tea culture
 Slug: tea-drunk
 Authors: Umar Dabhoiwala
-
 Summary: "Tea drunk" is a term used to describe the feeling of intoxication that some tea enthusiasts experience after drinking certain types of tea. In this post, we explore the fascinating world of tea drunk and its cultural significance.
 Tea is more than just a drink - it is a cultural phenomenon that transcends borders and time. One aspect of tea culture that has gained prominence in recent years is the concept of "tea drunk." Some tea drinkers describe feeling intoxicated or euphoric after drinking certain types of tea, leading to a feeling of calm and relaxation.
 The term "tea drunk" has its roots in Chinese tea culture, where it is referred to as "chajin." This phenomenon is closely tied to the preparation and consumption of certain types of tea, such as pu-erh or oolong teas that are known for their complex and nuanced flavors.
